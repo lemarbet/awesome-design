@@ -265,6 +265,7 @@ No need to mention the author.
 - [HotJar](https://www.hotjar.com/) Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys
 - [Inspectlet](https://www.inspectlet.com/) Captures user actions and browsing, generates heatmaps, records with a realtime timeline
 - [Clicktale](https://www.clicktale.com) is a user experience management platform.
+- [Plerdy](https://www.plerdy.com) Analyze and improvement of conversion, users experience and SEO on websites.
 
 ## Read and Digest
 
